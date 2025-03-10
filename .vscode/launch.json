@@ -4,7 +4,7 @@
         "name": "(gdb) Launch",
         "type": "cppdbg",
         "request": "launch",
-        "program": "${workspaceFolder}/builddir/src/heapsort",
+        "program": "${workspaceFolder}/src/HW1(heap-maxheapify)",
         "args": [],
         "stopAtEntry": false,
         "cwd": "${fileDirname}",
